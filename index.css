@@ -1,0 +1,153 @@
+*{
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+}
+.container-arriba{
+    display: flex;
+    justify-content: center;
+    padding-top: 5vh;
+}
+.arriba{
+    display: flex;
+}
+.uno{
+    width: 84px;
+    height: 39px;
+    background-color: #1bbc9b;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 20px;
+
+}
+.dos{
+    width: 219px;
+    height: 39px;
+    background-color: #3598db;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 20px;
+
+
+}
+.tres{
+    width: 108px;
+    height: 39px;
+    background-color: #9b59b0;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 20px;
+
+}
+.cuatro{
+    width: 109px;
+    height: 39px;
+    background-color: #384961;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 20px;
+
+}
+.cinco{
+    width: 331px;
+    height: 39px;
+    background-color: #f2c512;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 20px;
+
+}
+.seis{
+    width: 107px;
+    height: 39px;
+    background-color: #e67c1e;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    font-size: 20px;
+
+}
+
+
+.container-abajo{
+    border: 4px solid #fc040c;
+    display: flex;
+    width: 1300px;
+    height: 653px;
+    color: #fff;
+}
+
+.cuadro{
+    display: flex;
+    justify-content: center;
+    padding-top: 10vh;
+
+}
+.Uno{
+    width: 656px;
+    height: 155px;
+    background-color: #1bbc9b;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-size: 30px;
+
+}
+.Dos{
+    width: 656px;
+    height: 155px;
+    background-color: #3598db;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-size: 30px;
+}
+.Tres{
+    width: 656px;
+    height: 250px;
+    background-color: #9959b7;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-size: 30px;
+}
+.Cuatro{
+    height: 85px;
+    width: 656px ;
+    background-color: #374961;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-size: 30px;
+}
+
+
+.Cinco{
+    height: 280px;
+    width: 636px;
+    background-color: #f2c512;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-size: 30px;
+}
+.Seis{
+    height: 365px;
+    width: 636px;
+    background-color: #e67c1e;
+    display: flex;
+    justify-content: center;
+    color: #fff;
+    font-size: 30px;
+}
